@@ -1,6 +1,6 @@
 package com.shgx.provider.service;
 
-import com.shgx.service.service.HelloService;
+import com.shgx.service.HelloService;
 import org.springframework.stereotype.Component;
 import com.alibaba.dubbo.config.annotation.Service;
 

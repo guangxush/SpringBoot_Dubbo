@@ -1,6 +1,6 @@
 package com.shgx.consumer.controller;
 
-import com.shgx.service.service.HelloService;
+import com.shgx.service.HelloService;
 import com.alibaba.dubbo.config.annotation.Reference;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
